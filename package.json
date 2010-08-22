@@ -1,0 +1,9 @@
+{
+    "name": "uio",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/cadorn/uio.git"
+        }
+    ]
+}
